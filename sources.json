@@ -1,0 +1,26 @@
+{
+  "rss": [
+    {
+      "label": "BBC Russian",
+      "rss": "https://feeds.bbci.co.uk/russian/rss.xml"
+    },
+    {
+      "label": "Meduza",
+      "rss": "https://meduza.io/rss/all"
+    },
+    {
+      "label": "RIA",
+      "rss": "https://ria.ru/export/rss2/archive/index.xml"
+    }
+  ],
+  "telegram": [
+    {
+      "label": "Meduza Live",
+      "channel": "meduzalive"
+    },
+    {
+      "label": "RIA News",
+      "channel": "rian_ru"
+    }
+  ]
+}

@@ -1,10 +1,14 @@
 [
   {
-    "channel": "https://t.me/azzimood",
-    "label": "azimood"
-  },
-  {
     "channel": "azzimood",
     "label": "azzimood"
+  },
+  {
+    "channel": "aisen_nikolaev",
+    "label": "icen"
+  },
+  {
+    "channel": "sakhaday",
+    "label": "sakhaday"
   }
 ]

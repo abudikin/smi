@@ -1,4 +1,6 @@
 [
-  { "channel": "meduzalive", "label": "Meduza Live" },
-  { "channel": "rian_ru",    "label": "RIA News" }
+  {
+    "channel": "https://t.me/azzimood",
+    "label": "azimood"
+  }
 ]

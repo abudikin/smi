@@ -1,7 +1,7 @@
 [
   {
     "channel": "aisen_nikolaev",
-    "label": "icen"
+    "label": "николаев айсен"
   },
   {
     "channel": "sakhaday",
@@ -10,5 +10,13 @@
   {
     "channel": "rian_ru",
     "label": "RIAN"
+  },
+  {
+    "channel": "rozetked",
+    "label": "rozetked"
+  },
+  {
+    "channel": "habr_com",
+    "label": "хабр"
   }
 ]

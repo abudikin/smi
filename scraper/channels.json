@@ -30,5 +30,45 @@
   {
     "channel": "crimyakutiaru",
     "label": "крим якутия"
+  },
+  {
+    "channel": "doskazpozorayakutii",
+    "label": "Доска Z позара якутии"
+  },
+  {
+    "channel": "pryanayayakutia",
+    "label": "Пряная якутия"
+  },
+  {
+    "channel": "yakutsk_ve",
+    "label": "Якутск вечерний"
+  },
+  {
+    "channel": "yakutsknewsss",
+    "label": "AZZIMOOD NEWS"
+  },
+  {
+    "channel": "news_yakutiia",
+    "label": "Новости Якутии"
+  },
+  {
+    "channel": "online_yakutia14",
+    "label": "Online Якутия"
+  },
+  {
+    "channel": "ykt2100",
+    "label": "Якутия 2100"
+  },
+  {
+    "channel": "amurmedialife",
+    "label": "Чат Nerulife"
+  },
+  {
+    "channel": "yktskandal",
+    "label": "YKT скандалы и интриги"
+  },
+  {
+    "channel": "2460932506",
+    "label": "Якутия Ч/Б"
   }
 ]

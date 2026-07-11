@@ -1,9 +1,5 @@
 [
   {
-    "channel": "sakhaday",
-    "label": "sakhaday"
-  },
-  {
     "channel": "rozetked",
     "label": "rozetked"
   },
@@ -58,5 +54,37 @@
   {
     "channel": "2460932506",
     "label": "Якутия Ч/Б"
+  },
+  {
+    "channel": "neftyanka",
+    "label": "Нефтянка"
+  },
+  {
+    "channel": "oilfly",
+    "label": "Oilfly — нефть и газ"
+  },
+  {
+    "channel": "benzobak",
+    "label": "Бензобак"
+  },
+  {
+    "channel": "ria_neft",
+    "label": "РИА Нефть"
+  },
+  {
+    "channel": "neftegaz_mir",
+    "label": "Нефтегазовый мир"
+  },
+  {
+    "channel": "energytoday",
+    "label": "Energy Today"
+  },
+  {
+    "channel": "gaznews",
+    "label": "ГазПромМедиа новости"
+  },
+  {
+    "channel": "fuelmarket_ru",
+    "label": "Топливный рынок"
   }
 ]

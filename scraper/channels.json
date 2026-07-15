@@ -72,18 +72,6 @@
     "label": "РИА Нефть"
   },
   {
-    "channel": "neftegaz_mir",
-    "label": "Нефтегазовый мир"
-  },
-  {
-    "channel": "energytoday",
-    "label": "Energy Today"
-  },
-  {
-    "channel": "gaznews",
-    "label": "ГазПромМедиа новости"
-  },
-  {
     "channel": "fuelmarket_ru",
     "label": "Топливный рынок"
   },

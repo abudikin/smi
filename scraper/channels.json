@@ -26,5 +26,13 @@
   {
     "channel": "benzobak",
     "label": "Бензобак"
+  },
+  {
+    "channel": "rozetked",
+    "label": "rozetked"
+  },
+  {
+    "channel": "pryanayayakutia",
+    "label": "Пряная якутия"
   }
 ]

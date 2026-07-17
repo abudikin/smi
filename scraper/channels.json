@@ -2,5 +2,29 @@
   {
     "channel": "Torboznoe_radio",
     "label": "Торбозное радио"
+  },
+  {
+    "channel": "pryanayayakutia",
+    "label": "Пряная якутия"
+  },
+  {
+    "channel": "fuelmarket_ru",
+    "label": "Топливный рынок"
+  },
+  {
+    "channel": "ria_neft",
+    "label": "РИА нефть"
+  },
+  {
+    "channel": "neftyanka",
+    "label": "Нефтянка"
+  },
+  {
+    "channel": "oilfly",
+    "label": "Oilfly — нефть и газ"
+  },
+  {
+    "channel": "benzobak",
+    "label": "Бензобак"
   }
 ]
